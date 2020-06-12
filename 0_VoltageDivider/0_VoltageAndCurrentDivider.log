@@ -1,0 +1,21 @@
+Circuit: * C:\Users\akram\OneDrive\Projects\LTSpice Projects\LTSpicePractice\0_VoltageDivider\0_VoltageAndCurrentDivider.asc
+
+.OP point found by inspection.
+
+Date: Fri Jun 12 16:00:33 2020
+Total elapsed time: 0.056 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2364
+traniter = 2364
+tranpoints = 1183
+accept = 1155
+rejected = 28
+matrix size = 4
+fillins = 0
+solver = Normal
+Matrix Compiler1: 64 bytes object code size  0.0/0.0/[0.0]
+Matrix Compiler2: 214 bytes object code size  0.0/0.0/[0.0]
+
